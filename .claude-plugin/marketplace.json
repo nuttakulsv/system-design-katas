@@ -1,0 +1,7 @@
+{
+  "name": "system-design-katas",
+  "owner": { "name": "nuttakulsv" },
+  "plugins": [
+    { "name": "system-design-katas", "source": "./", "description": "System design interview practice: your agent interviews you with hidden requirements and curveballs, then debriefs at senior, staff or principal level." }
+  ]
+}

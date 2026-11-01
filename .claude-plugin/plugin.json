@@ -1,0 +1,9 @@
+{
+  "name": "system-design-katas",
+  "version": "0.1.0",
+  "description": "System design interview practice: your agent interviews you with hidden requirements and curveballs, then debriefs at senior, staff or principal level.",
+  "author": { "name": "nuttakulsv" },
+  "homepage": "https://github.com/nuttakulsv/system-design-katas",
+  "license": "MIT",
+  "keywords": ["system-design", "interview", "architecture", "staff-engineer", "distributed-systems"]
+}
