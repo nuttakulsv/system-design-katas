@@ -59,7 +59,7 @@ npx skills add nuttakulsv/system-design-katas
 
 จากนั้นพิมพ์สั่ง เช่น "ขอ system design kata ระดับ staff" หรือ "เล่นโจทย์ 6"
 
-**ไม่มี coding agent?** วาง [`SKILL.md`](skills/system-design-katas/SKILL.md) กับไฟล์โจทย์ลงในแชท AI ตัวไหนก็ได้ แล้วพิมพ์ว่า "เริ่มสัมภาษณ์ได้"
+**ไม่มี coding agent?** วาง [`SKILL.md`](skills/system-design-katas/SKILL.md) กับไฟล์โจทย์ลงในแชต AI ตัวไหนก็ได้ แล้วพิมพ์ว่า "เริ่มสัมภาษณ์ได้"
 
 ## แต่ละระดับต่างกันยังไง
 
